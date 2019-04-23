@@ -1,0 +1,11 @@
+:host {
+    display: flex;
+    background: #efefef;
+    padding: 60px 0;
+    flex-grow: 1;
+    height: 100%
+    }
+
+:host > div.fill{
+    height: auto;
+}

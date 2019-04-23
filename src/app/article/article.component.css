@@ -1,0 +1,21 @@
+h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 48px;
+    color: #14cc76;
+    text-align: center;
+}
+
+p {
+    line-height: 150%;
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+p {
+    margin: 40px 0 !important;
+}
+
+.intro {
+    font-weight: 900;
+}
